@@ -1,0 +1,41 @@
+body, html {
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("bg1.jpg");
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    color:white;
+    flex-direction: column;
+    width: 100%;
+    background-color: #3e2723;
+    padding: 10px;
+
+}
+
+
+nav a {
+    font-family:'poppins',sans-serif;
+    text-decoration:none;
+    font-size: 1rem;
+    text-align:center;
+    color: white;
+    padding: 15px;
+
+}
+
+.hero {
+    color:white;
+    top:40%;
+    align-items: center;
+    text-align: center;
+    font-family: 'poppins',sans-serif;
+    background-color: #3e2723;
+    border-radius: 12px;
+    margin:20px auto;
+    padding: 15px;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    height:0;
+    margin: 0;
+    font-family: 'poppins',sans-serif;
+    background-size: cover;
+    background-image: url("bg1.jpg");
+  }
+
+nav {
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-family:'poppins', sans-serif ;
+    margin: 0;
+    color:white;
+    background-color: #3e2723;
+  }
+
+h1 {
+    text-align: center;
+    color: white;
+    box-shadow: 0px 4px color(srgb rgb(0, 0, 0) green blue);
+  }
+
+.nav {
+    padding: 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+  }
+
+.menu-section {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+  
+.menu-section h2 {
+    border-bottom: 2px solid #3e2723;
+    padding-bottom: 5px;
+  }
+
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
